@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+wk1/nyc_taxi_postgres_data
+wk1/yellow_tripdata_2021-01.csv
